@@ -1,0 +1,9 @@
+service\BaseService.class
+dao\impl\PersonDaoImpl.class
+dao\impl\BaseDaoImpl.class
+service\impl\BaseServiceImpl.class
+entity\Person.class
+dao\BaseDao.class
+dao\PersonDao.class
+util\ClassHelper.class
+action\PersonAction.class
